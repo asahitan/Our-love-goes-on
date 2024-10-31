@@ -10,7 +10,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    min-height: 100vh;
+    min-height: 45vh;
     overflow: hidden;
     color: #333;
 }
@@ -29,7 +29,7 @@ body {
 
 /* Existing styles remain the same */
 .scrollable-container {
-    max-height: 300px; /* Adjust this value as needed */
+    max-height: 350px; /* Adjust this value as needed */
     overflow-y: auto;
     padding-right: 10px; /* Adds some space for the scrollbar */
 }

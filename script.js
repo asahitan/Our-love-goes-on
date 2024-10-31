@@ -32,3 +32,5 @@ links.forEach(link => {
     linkContainer.appendChild(descriptionElement);
     linkContainer.appendChild(anchor);
 });
+
+console.log("Welcome to the beautiful website with multiple titled links and descriptions!");
